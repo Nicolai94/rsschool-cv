@@ -59,3 +59,15 @@ Zavod IT from 2022.11
 ---
 
 - University: Brest State Technical University, Civil Engineering
+
+---
+
+## **Languages**
+
+---
+
+- Russian native
+- Belarussian native
+- English B1
+- German A1
+- Polish A2
