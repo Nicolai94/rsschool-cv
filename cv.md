@@ -10,7 +10,9 @@
 
 ---
 
-- Location: Minsk, Belarus
-  Phone: +375 29 134-40-41
-  Email: kryvetskistud@gmail.com
-  GitHub: kryvetski-andrei
+*Location: Minsk, Belarus
+*Phone: +375 29 2012858
+*Email: nicolas9441@gmail.com
+*GitHub: Nicolai94
+
+---
